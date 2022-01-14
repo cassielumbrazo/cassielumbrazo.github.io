@@ -30,6 +30,4 @@ Journal is packed with powerful features to showcase your work:
 
 ## Get Index
 
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
 <a href="https://twitter.com/cassielumbrazo" class="button button--large">A buttom for Twitter, Nice</a>
