@@ -2,7 +2,7 @@
 title: 'Memorial Book'
 subtitle: 'Using my first accordian book on something, very special'
 date: 2021-01-29 00:00:00
-featured_image: '/images/art/memorial_book/cover_photo.jpg'
+featured_image: '/images/art/nevache/me_sitting_painting.jpeg'
 ---
 
 ![](/images/art/memorial_book/cover_photo.jpg)
