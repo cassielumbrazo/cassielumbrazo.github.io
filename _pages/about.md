@@ -30,4 +30,4 @@ Journal is packed with powerful features to showcase your work:
 
 ## Get Index
 
-<a href="https://twitter.com/cassielumbrazo" class="button button--large">A buttom for Twitter, Nice</a>
+<a href="https://twitter.com/cassielumbrazo" class="button button--large">A button for Twitter, Nice</a>
