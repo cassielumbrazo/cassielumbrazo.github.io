@@ -1,7 +1,7 @@
 ---
 title: 'En plein air'
 subtitle: '(or plein air paitning): the act of painting outdoors'
-date: 2018-06-30 00:00:00
+date: 2021-01-29 00:00:00
 featured_image: '/images/art/nevache/touring_painting.jpg'
 ---
 
