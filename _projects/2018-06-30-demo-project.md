@@ -1,11 +1,11 @@
 ---
-title: 'Demo Project'
+title: 'Demo Art Project'
 subtitle: 'This is a demo'
 date: 2018-06-30 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/art/nevache/touring_painting.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/art/nevache/backpack_painting.jpg)
 
 ## Demo content
 
