@@ -1,13 +1,13 @@
 ---
-title: 'Demo Art Project'
-subtitle: 'This is a demo'
+title: 'En plein air'
+subtitle: '(or plein air paitning): the act of painting outdoors'
 date: 2018-06-30 00:00:00
 featured_image: '/images/art/nevache/touring_painting.jpg'
 ---
 
 ![](/images/art/nevache/backpack_painting.jpg)
 
-## Demo content
+## Plein air painting in Nevache
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
@@ -35,9 +35,9 @@ The theme also supports markdown tables:
 
 | Item                 | Author        | Supports tables? | Price |
 |----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
+| Duet Jekyll Theme    | Jekyll Themes | Yes              | $   |
+| Index Jekyll Theme   | Jekyll Themes | Yes              | $   |
+| Journal Jekyll Theme | Jekyll Themes | Yes              | $   |
 
 And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
 
