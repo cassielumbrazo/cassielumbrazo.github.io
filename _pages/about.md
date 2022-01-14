@@ -2,10 +2,10 @@
 title: About Journal
 subtitle: A stunning personal blog Jekyll theme with an image-focused design.
 description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/personal/Cassie_pit.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/personal/Cassie_MetStation.jpg)
 
 ## Features
 
@@ -32,4 +32,4 @@ Journal is packed with powerful features to showcase your work:
 
 Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
 
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://twitter.com/cassielumbrazo" class="button button--large">A buttom for Twitter, Nice</a>
