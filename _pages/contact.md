@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: Journal comes with a built-in contact form, that's free and easy to set up.
+subtitle: If you feel like contacting me, you should just send me an email instead of using this form. I do not know how it works. 
 description: A stunning personal blog Jekyll theme with an image-focused design.
 featured_image: /images/personal/snow_angel.jpeg
 ---
