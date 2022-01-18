@@ -5,8 +5,6 @@ date: 2021-01-29 00:00:00
 featured_image: '/images/art/memorial_book/cover_photo.jpg'
 ---
 
-![](/images/art/memorial_book/cover_photo.jpg)
-
 <img src="/images/art/memorial_book/full_crop.jpg">
 
 > “I was told to believe the signs. So I will. I will follow my intuition. I will fully feel you when I feel you and see you when I see you.”
