@@ -7,6 +7,8 @@ featured_image: '/images/art/memorial_book/cover_photo.jpg'
 
 ![](/images/art/memorial_book/cover_photo.jpg)
 
+<img src="/images/art/memorial_book/full_crop.jpg">
+
 > “I was told to believe the signs. So I will. I will follow my intuition. I will fully feel you when I feel you and see you when I see you.”
 
 ## Memorial Book for Him
@@ -27,11 +29,10 @@ Focusing on these small moments, like when the light hits the water just right, 
 A LOOK at the accordion book, page by page
 
 <div class="gallery" data-columns="1">
-  <img src="/images/art/memorial_book/full_crop.jpg">
 	<img src="/images/art/memorial_book/page1.jpg">
-  <img src="/images/art/memorial_book/page2.jpg">
-  <img src="/images/art/memorial_book/page3.jpg">
-  <img src="/images/art/memorial_book/page4.jpg">
+ 	<img src="/images/art/memorial_book/page2.jpg">
+  	<img src="/images/art/memorial_book/page3.jpg">
+  	<img src="/images/art/memorial_book/page4.jpg">
 </div>
 
 Some of my favirote parts of the book... this blending, this transparency... it's why I love watercolor so much
