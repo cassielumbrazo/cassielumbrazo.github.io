@@ -38,8 +38,8 @@ A LOOK at the accordion book, page by page
 Some of my favirote parts of the book... this blending, this transparency... it's why I love watercolor so much
 
 <div class="gallery" data-columns="2">
-	<img src="/images/art/memorial_book/page4_close1.jpg">
-	<img src="/images/art/memorial_book/page4_close2.jpg">
+	<img src="/images/art/memorial_book/page4_close_1.jpg">
+	<img src="/images/art/memorial_book/page4_close_2.jpg">
 </div>
 
 ---
