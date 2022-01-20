@@ -13,9 +13,9 @@ menu_settings:
     - title: 'Blog'
       url: '/'
     - title: 'Creative'
-      url: '/creative/'
+      url: '/projects/'
     - title: 'Research'
-      url: '/research'
+      url: '/about/'
     - title: 'Contact'
       url: '/contact'
 
