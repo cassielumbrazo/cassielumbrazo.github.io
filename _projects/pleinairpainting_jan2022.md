@@ -27,6 +27,22 @@ Here are some of the en plein air adventures I've had this month.
 </div>
 
 
+
+---
+
+
+## Cervieres, France
+#### Friday December 31, 2021
+
+<img src="/images/fill/close_up_of_me_painting.jpeg">
+
+<div class="gallery" data-columns="3">
+	<img src="/images/art/new_years/ski_smile.jpeg">
+	<img src="/images/art/new_years/snowboard.jpeg">
+
+</div>
+
+
 ---
 
 
