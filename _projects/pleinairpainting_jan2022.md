@@ -9,6 +9,9 @@ featured_image: '/images/fill/close_up_of_me_painting.jpeg'
 
 [^1]: https://www.artistsnetwork.com/art-subjects/plein-air/plein-air-art/
 
+In my healing journey, I have thrown myself into my art. I enjoy painting outdoors, where I can be *in* and fully emmersed by the landscape that I attempt to capture the likeness of. This type of experience does not limit my observations to what my eyes can see, but what my body can feel. 
+
+Here are some of the en plein air adventures I've had this month. 
 
 ---
 
