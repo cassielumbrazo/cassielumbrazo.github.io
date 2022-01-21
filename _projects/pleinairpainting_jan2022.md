@@ -23,7 +23,8 @@ Here are some of the en plein air adventures I've had this month.
 	<img src="/images/art/nevache/me_painting.jpeg">
 	<img src="/images/art/nevache/backpack_painting.jpg">
 	<img src="/images/art/nevache/touring_painting.jpg">
-	<img src="/images/art/nevache/me_painting_sitting.jpg">
+	<img src="/images/art/nevache/me_painting_sitting.jpeg">
+	<img src="/images/art/nevache/backpack_2.jpg">
 </div>
 
 
