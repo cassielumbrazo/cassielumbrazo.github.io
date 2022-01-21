@@ -20,8 +20,8 @@ You can throw in some horizontal rules too:
 
 ---
 
-## Nevache
-#### Date
+## Nevache, France
+#### Tuesday December 28, 2021 
 
 <div class="gallery" data-columns="3">
 	<img src="/images/art/nevache/holding_painting.jpg">
@@ -35,8 +35,8 @@ You can throw in some horizontal rules too:
 ---
 
 
-## Davos
-#### Date
+## Davos Platz, Switzerland
+#### Tuesday January 04, 2022
 
 <div class="gallery" data-columns="3">
 	<img src="/images/art/davos/stage1_vert.jpg">
@@ -49,8 +49,8 @@ You can throw in some horizontal rules too:
 
 ---
 
-## Dischma
-#### Date
+## Dischma Valley, Switzerland
+#### Saturday January 15, 2021 
 
 <div class="gallery" data-columns="3">
 	<img src="/images/art/dischma/stage1_vert.jpg">
