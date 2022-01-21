@@ -21,7 +21,7 @@ Here are some of the en plein air adventures I've had this month.
 <div class="gallery" data-columns="3">
 	<img src="/images/art/nevache/holding_painting.jpg">
 	<img src="/images/art/nevache/me_painting.jpeg">
-	<img src="/images/art/nevache/backpack_painting.jpg">
+	<img src="/images/art/nevache/village_1.jpg">
 	<img src="/images/art/nevache/touring_painting.jpg">
 	<img src="/images/art/nevache/me_painting_sitting.jpeg">
 	<img src="/images/art/nevache/backpack_2.jpg">
