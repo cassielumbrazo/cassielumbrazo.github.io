@@ -7,9 +7,6 @@ featured_image: '/images/art/nevache/touring_painting.jpg'
 
 ![](/images/art/fill/close_up_of_me_painting.jpeg)
 
-## Plein air painting
-
-
 > “Plein air painting is about leaving the four walls of your studio behind and experiencing painting and drawing *in* the landscape.[^1]"
 
 
@@ -23,7 +20,7 @@ You can throw in some horizontal rules too:
 
 ---
 
-##### Nevache
+## Nevache
 
 <div class="gallery" data-columns="3">
 	<img src="/images/art/nevache/holding_painting.jpg">
@@ -35,7 +32,21 @@ You can throw in some horizontal rules too:
 
 ---
 
-### Davos
+
+## Davos
+
+<div class="gallery" data-columns="3">
+	<img src="/images/art/davos/stage1_vert.jpg">
+	<img src="/images/art/davos/complete_vert2.jpg">
+	<img src="/images/art/davos/complete_vert_ground.jpg">
+
+	
+</div>
+
+
+---
+
+## Dischma
 
 <div class="gallery" data-columns="1">
 	<img src="/images/art/dischma/stage1_vert.jpg">
