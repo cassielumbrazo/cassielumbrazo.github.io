@@ -10,7 +10,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Blog'
+    - title: 'Blog Posts'
       url: '/'
     - title: 'Creative Projects'
       url: '/projects/'
