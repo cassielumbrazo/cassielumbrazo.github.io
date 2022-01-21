@@ -21,12 +21,14 @@ You can throw in some horizontal rules too:
 ---
 
 ## Nevache
+#### Date
 
 <div class="gallery" data-columns="3">
 	<img src="/images/art/nevache/holding_painting.jpg">
 	<img src="/images/art/nevache/me_painting.jpeg">
 	<img src="/images/art/nevache/backpack_painting.jpg">
 	<img src="/images/art/nevache/touring_painting.jpg">
+	<img src="/images/art/nevache/me_painting_sitting.jpg">
 </div>
 
 
@@ -34,6 +36,7 @@ You can throw in some horizontal rules too:
 
 
 ## Davos
+#### Date
 
 <div class="gallery" data-columns="3">
 	<img src="/images/art/davos/stage1_vert.jpg">
@@ -47,15 +50,16 @@ You can throw in some horizontal rules too:
 ---
 
 ## Dischma
+#### Date
 
-<div class="gallery" data-columns="1">
+<div class="gallery" data-columns="3">
 	<img src="/images/art/dischma/stage1_vert.jpg">
 	<img src="/images/art/dischma/stage2_vert.jpg">
-	<img src="/images/art/dischma/complete_hold_vert.jpg">
+	<img src="/images/art/dischma/complete_holding_vert.jpg">
 	
 </div>
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="1">
 	<img src="/images/art/dischma/holding_fisheye.jpg">
 	<img src="/images/art/dischma/on_ground_with_skis.jpg">
 	
@@ -65,3 +69,4 @@ You can throw in some horizontal rules too:
 ---
 
 <!-- <a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a> -->
+<!-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -->
