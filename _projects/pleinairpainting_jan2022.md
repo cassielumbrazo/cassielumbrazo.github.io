@@ -38,8 +38,8 @@ Here are some of the en plein air adventures I've had this month.
 <img src="/images/fill/close_up_of_me_painting.jpeg">
 
 <div class="gallery" data-columns="3">
-	<img src="/images/art/new_years/ski_smile.jpeg">
-	<img src="/images/art/new_years/snowboard.jpeg">
+	<img src="/images/art/new_years/ski_smile.jpg">
+	<img src="/images/art/new_years/snowboard.jpg">
 
 </div>
 
