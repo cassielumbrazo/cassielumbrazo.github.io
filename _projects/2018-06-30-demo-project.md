@@ -2,21 +2,13 @@
 title: 'En plein air'
 subtitle: '(or plein air paitning): the act of painting outdoors'
 date: 2021-01-29 00:00:00
-featured_image: '/images/art/nevache/touring_painting.jpg'
+featured_image: '/images/fill/close_up_of_me_painting.jpeg'
 ---
-
-![](/images/fill/close_up_of_me_painting.jpeg)
 
 > “Plein air painting is about leaving the four walls of your studio behind and experiencing painting and drawing *in* the landscape.[^1]"
 
-
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
 [^1]: https://www.artistsnetwork.com/art-subjects/plein-air/plein-air-art/
-[^2]: test
-[^3]: Maintained and supported by the theme developer.
 
-You can throw in some horizontal rules too:
 
 ---
 
