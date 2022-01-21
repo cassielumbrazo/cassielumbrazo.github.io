@@ -5,7 +5,7 @@ date: 2021-01-29 00:00:00
 featured_image: '/images/art/nevache/touring_painting.jpg'
 ---
 
-![](/images/art/fill/close_up_of_me_painting.jpeg)
+![](/images/fill/close_up_of_me_painting.jpeg)
 
 > “Plein air painting is about leaving the four walls of your studio behind and experiencing painting and drawing *in* the landscape.[^1]"
 
