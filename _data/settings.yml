@@ -12,11 +12,11 @@ menu_settings:
   menu_items:
     - title: 'Blog'
       url: '/'
-    - title: 'Creative'
+    - title: 'Creative Projects'
       url: '/projects/'
-    - title: 'Research'
+    - title: 'Research Projects'
       url: '/about'
-    - title: 'Contact'
+    - title: 'Contact Me'
       url: '/contact'
 
 grid_settings:
