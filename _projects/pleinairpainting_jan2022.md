@@ -32,7 +32,7 @@ Here are some of the en plein air adventures I've had this month.
 ---
 
 
-## Cervieres, France
+<!-- ## Cervieres, France
 #### Friday December 31, 2021
 
 <img src="/images/fill/close_up_of_me_painting.jpeg">
@@ -41,8 +41,7 @@ Here are some of the en plein air adventures I've had this month.
 	<img src="/images/art/new_years/ski_smile.jpg">
 	<img src="/images/art/new_years/snowboard.jpg">
 
-</div>
-
+</div> -->
 
 ---
 
@@ -54,12 +53,24 @@ Here are some of the en plein air adventures I've had this month.
 	<img src="/images/art/davos/stage1_vert.jpg">
 	<img src="/images/art/davos/complete_vert2.jpg">
 	<img src="/images/art/davos/complete_vert_ground.jpg">
-
-	
 </div>
 
 
 ---
+
+#### Friday January 07, 2022
+
+<div class="gallery" data-columns="3">
+	<img src="/images/art/davos/frozen_paint_trees.jpg">
+	<img src="/images/art/davos/frozen_paint_shoes.jpg">
+	<img src="/images/art/davos/frozen_paint_pallet.jpg">
+</div>
+
+<img src="/images/art/davos/frozen_paint_sunset.jpg">
+
+
+---
+
 
 ## Dischma Valley, Switzerland
 #### Saturday January 15, 2021 
