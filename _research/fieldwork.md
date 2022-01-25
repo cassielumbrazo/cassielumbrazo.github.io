@@ -20,6 +20,8 @@ Testing
 
 </div>
 
+https://www.ce.washington.edu/news/article/2020-07-23/snow-scientists-cee-researchers-participate-nasa%E2%80%99s-snowex-field-campaign
+
 
 ---
 
