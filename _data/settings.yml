@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Creative Projects'
       url: '/projects/'
     - title: 'Research Projects'
-      url: '/about'
+      url: '/research'
     - title: 'Contact Me'
       url: '/contact'
 
