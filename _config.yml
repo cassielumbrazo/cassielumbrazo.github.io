@@ -12,7 +12,10 @@ collections:
     permalink: /blog/:slug
   projects:
     output: true
-    permalink: /project/:slug
+    permalink: /creative_projects/:slug
+  research:
+    output: true
+    permalink: /research_projects/:slug
 
 defaults:
   -
@@ -36,6 +39,13 @@ defaults:
     scope:
       path: ""
       type: "projects"
+    values:
+      layout: "project"
+      
+  -
+    scope:
+      path: ""
+      type: "research"
     values:
       layout: "project"
 
