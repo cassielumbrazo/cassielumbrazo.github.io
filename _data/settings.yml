@@ -13,9 +13,9 @@ menu_settings:
     - title: 'Blog Posts'
       url: '/'
     - title: 'Creative Projects'
-      url: '/projects/'
+      url: '/creative_projects/'
     - title: 'Research Projects'
-      url: '/research/'
+      url: '/research_projects/'
     - title: 'Contact Me'
       url: '/contact'
 
