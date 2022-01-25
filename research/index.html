@@ -21,7 +21,7 @@ featured_image: /images/personal/Cassie_pit.JPG
 
 	<div class="wrap">
 
-		{% for research in site.researchs reversed %}
+		{% for research in site.research reversed %}
 
 		<div class="portfolio-item">
 
@@ -31,8 +31,8 @@ featured_image: /images/personal/Cassie_pit.JPG
 
 				<div class="portfolio-item__content">
 					<div class="portfolio-item__info">
-						<h2 class="portfolio-item__title">{{ project.title }}</h2>
-						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+						<h2 class="portfolio-item__title">{{ research.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ research.subtitle }}</p>
 					</div>
 				</div>
 
