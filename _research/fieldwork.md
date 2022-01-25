@@ -2,7 +2,7 @@
 title: 'Field Work'
 subtitle: 'Outline for Field Work Post'
 date: 2021-01-29 00:00:00
-featured_image: '/images/Cassie_MetStation.jpg'
+featured_image: '/images/personal/Cassie_MetStation.jpg'
 ---
 
 > “test[^1]"
