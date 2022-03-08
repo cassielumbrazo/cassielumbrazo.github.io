@@ -120,7 +120,7 @@ Here are some of the en plein air adventures I've had this month.
 </div>
 
 <div class="gallery" data-columns="1">
-	<img src="/images/art/pischa/complete_onski.jpg">
+	<img src="/images/art/pischa/complete_onskis.jpg">
 	<img src="/images/art/pischa/stage1_vert_skis_mountain.jpg">
 	<img src="/images/art/pischa/complete_onski_zoomout.jpg">
 	<img src="/images/art/pischa/complete_vert_lookingdown.jpg">
