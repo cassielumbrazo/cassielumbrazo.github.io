@@ -2,7 +2,7 @@
 title: 'Valle Fellowship in Norway'
 subtitle: 'Moving to Oslo, Norway'
 date: 08-03-2022
-featured_image: '/images/fill/close_up_of_me_painting.jpeg'
+featured_image: '/images/oslo/finse/arrive_landscape_1.jpg'
 ---
 
 Moving to Oslo, Norway for the Valle Fellowship and Scandinavian Exchange Program[^1]
@@ -28,10 +28,19 @@ Moving to Oslo, Norway for the Valle Fellowship and Scandinavian Exchange Progra
 Joining folks at the Finse Alpine Research Center[^2]
 [^2]: https://www.finse.uio.no/
 
+<img src="/images/oslo/finse/arrive_landscape_1.jpg">
+
 <div class="gallery" data-columns="3">
-	<img src="/images/oslo/finse/photo.jpg">
-  	<img src="/images/oslo/finse/photo.jpg">
-  	<img src="/images/oslo/finse/photo.jpg">
+	<img src="/images/oslo/finse/arrive_vert_1.jpg">
+	<img src="/images/oslo/finse/arrive_vert_3.jpg">
+  	<img src="/images/oslo/finse/arrive_splitboard_vert.jpg">
+</div>
+
+<div class="gallery" data-columns="4">
+	<img src="/images/oslo/finse/sunrise_horz_1.jpg">
+	<img src="/images/oslo/finse/sunrise_horz_2.jpg">
+	<img src="/images/oslo/finse/sunrise_horz_3.jpg">
+	<img src="/images/oslo/finse/sunrise_horz_4.jpg">
 </div>
 
 
