@@ -99,7 +99,7 @@ Here are some of the en plein air adventures I've had this month.
 ## Pischahorn, Switzerland
 #### Sunday January 30, 2022
 
-<div class="gallery" data-columns="1">
+<div class="gallery" data-columns="2">
 	<img src="/images/art/pischa/touring.jpg">
 	<img src="/images/art/pischa/touring_shadow.jpg">
 	
