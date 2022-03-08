@@ -1,7 +1,7 @@
 ---
 title: 'En plein air'
 subtitle: '(or plein air paitning): the act of painting outdoors'
-date: 2021-01-29 00:00:00
+date: 08-03-2022 last update
 featured_image: '/images/fill/close_up_of_me_painting.jpeg'
 ---
 
