@@ -66,9 +66,8 @@ Here are some of the en plein air adventures I've had this month.
 	<img src="/images/art/davos/frozen_paint_pallet.jpg">
 </div>
 
-<div class="gallery" data-columns="2">
-	<img src="/images/art/davos/frozen_paint_sunset.jpg">	
-	<testing to see if the text will come here>
+<div class="gallery" data-columns="1">
+	<img src="/images/art/davos/frozen_paint_sunset.jpg">
 </div>
 
 
@@ -130,7 +129,6 @@ Here are some of the en plein air adventures I've had this month.
 <div class="gallery" data-columns="1">
 	<img src="/images/art/pischa/sunset.jpg">
 </div>
-
 
 
 ---
