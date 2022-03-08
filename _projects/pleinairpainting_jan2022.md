@@ -76,7 +76,7 @@ testing to see if the text will come here
 
 
 ## Dischma Valley, Switzerland
-#### Saturday January 15, 2021 
+#### Saturday January 15, 2022
 
 <div class="gallery" data-columns="3">
 	<img src="/images/art/dischma/stage1_vert.jpg">
@@ -90,6 +90,46 @@ testing to see if the text will come here
 	<img src="/images/art/dischma/on_ground_with_skis.jpg">
 	
 </div>
+
+
+---
+
+
+## Pischahorn, Switzerland
+#### Sunday January 30, 2022
+
+<div class="gallery" data-columns="1">
+	<img src="/images/art/pischa/touring.jpg">
+	<img src="/images/art/pischa/touring_shadow.jpg">
+	
+</div>
+
+<div class="gallery" data-columns="3">
+	<img src="/images/art/pischa/stage1_vert.jpg">
+	<img src="/images/art/pischa/stage2_vert.jpg">
+	<img src="/images/art/pischa/stage3_vert.jpg">
+	
+</div>
+
+<div class="gallery" data-columns="1">
+	<img src="/images/art/pischa/complete_horz_zoomin.jpg">
+</div>
+
+<div class="gallery" data-columns="1">
+	<img src="/images/art/pischa/complete_horz_night.jpg">
+</div>
+
+<div class="gallery" data-columns="1">
+	<img src="/images/art/pischa/complete_onski.jpg">
+	<img src="/images/art/pischa/stage1_vert_skis_mountain.jpg">
+	<img src="/images/art/pischa/complete_onski_zoomout.jpg">
+	<img src="/images/art/pischa/complete_vert_lookingdown.jpg">
+</div>
+
+<div class="gallery" data-columns="1">
+	<img src="/images/art/pischa/sunset.jpg">
+</div>
+
 
 
 ---
