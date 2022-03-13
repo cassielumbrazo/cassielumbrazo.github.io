@@ -14,21 +14,23 @@ Moving to Oslo, Norway for the Valle Fellowship and Scandinavian Exchange Progra
 ## Finse, Norway
 #### Date
 
-Joining folks at the Finse Alpine Research Center[^2]
+I joined some folks from the University of Oslo (UiO) for fieldwork at the Finse Alpine Research Center [^2] in Finse, Norway. 
 [^2]: https://www.finse.uio.no/
 
 Landscape
 <img src="/images/oslo/finse/arrive_landscape_1.jpg">
 
 ### Arrival Photos 
-#### Date
+#### 21 February 2022
+
+You can only arrive in Finse by train. 
 <div class="gallery" data-columns="3">
 	<img src="/images/oslo/finse/arrive_vert_1.jpg">
 	<img src="/images/oslo/finse/arrive_vert_3.jpg">
   	<img src="/images/oslo/finse/arrive_splitboard_vert.jpg">
 </div>
 
-Sunrise photos
+The sunrise was long, and incredible. 
 <div class="gallery" data-columns="4">
 	<img src="/images/oslo/finse/sunrise_horz_1.jpg">
 	<img src="/images/oslo/finse/sunrise_horz_2.jpg">
@@ -37,7 +39,7 @@ Sunrise photos
 </div>
 
 ### Data Collection
-#### Date
+#### 22-24 February 2022
 <div class="gallery" data-columns="3">
 	<img src="/images/oslo/finse/drone_vert_1.jpg">
 	<img src="/images/oslo/finse/simon_snowpit_vert_1.jpg">
@@ -46,7 +48,9 @@ Sunrise photos
 
 
 ### Replacing Sensor on Met Station
-#### Date
+#### 25 February 2022
+
+We had to replace a temperature sensor at the top of the 10m meterological station. This required us to detatch wires to fold the met station in half to gaina access to the top of the station.
 <div class="gallery" data-columns="3">
 	<img src="/images/oslo/finse/sensor_replacement_1.jpg">
 	<img src="/images/oslo/finse/sensor_replacement_2.jpg">
