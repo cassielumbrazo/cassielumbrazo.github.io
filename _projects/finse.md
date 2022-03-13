@@ -1,26 +1,15 @@
 ---
-title: 'Valle Fellowship in Norway'
-subtitle: 'Moving to Oslo, Norway'
+title: 'Finse Alpine Research Center Fieldwork'
+subtitle: 'Visiting the Finse Alpine Research Center to help with snow science fieldwork'
 date: 08-03-2022
 featured_image: '/images/oslo/finse/arrive_landscape_1.jpg'
 ---
 
-Moving to Oslo, Norway for the Valle Fellowship and Scandinavian Exchange Program[^1]
+Moving to Oslo, Norway for the Valle Fellowship and Scandinavian Exchange Program [^1]
+
 [^1]: https://www.ce.washington.edu/current/abroad/valle
->"The Valle Scholarship & Scandinavian Exchange Program supports the exchange of graduate students between the University of Washington and institutions and organizations in Nordic countries. This exchange enriches students' educational experience through international perspective and experience in the fields of civil and environmental engineering, architecture, landscape design, urban planning, and construction management. The program is unique in that students are fully funded and receive a monthly stipend, tuition and travel to and from their destination.[^1]"
 
 ---
-
-## Oslo, Norway
-#### Date
-
-<div class="gallery" data-columns="3">
-	<img src="/images/oslo/photo.jpg">
-  	<img src="/images/oslo/photo.jpg">
-	<img src="/images/oslo/photo.jpg">
-</div>
-
-
 
 ## Finse, Norway
 #### Date
@@ -49,7 +38,7 @@ Sunrise photos
 
 ### Data Collection
 #### Date
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="3">
 	<img src="/images/oslo/finse/drone_vert_1.jpg">
 	<img src="/images/oslo/finse/simon_snowpit_vert_1.jpg">
 	<img src="/images/oslo/finse/snowpit_vert_1.jpg">
