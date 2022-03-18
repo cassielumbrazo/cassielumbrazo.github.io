@@ -71,6 +71,37 @@ Here are some of the en plein air adventures I've had this month.
 </div>
 
 
+---
+
+#### I've been workshopping this view in my mind a long time
+
+<div class="gallery" data-columns="4">
+	<img src="/images/art/davos/2_stage1_vert.jpg">
+	<img src="/images/art/davos/2_stage2_vert.jpg">
+	<img src="/images/art/davos/2_stage3_vert.jpg">
+	<img src="/images/art/davos/2_stage4_vert.jpg">
+</div>
+
+<div class="gallery" data-columns="1">
+	<img src="/images/art/davos/2_stage5_horz_linedup.jpg">
+</div>
+
+<div class="gallery" data-columns="4">
+	<img src="/images/art/davos/2_stage5_vert.jpg">
+	<img src="/images/art/davos/2_stage6_vert.jpg">
+	<img src="/images/art/davos/2_stage7_vert_2.jpg">
+	<img src="/images/art/davos/2_stage8_vert.jpg">
+</div>
+
+<div class="gallery" data-columns="3">
+	<img src="/images/art/davos/2_stage8_lookingdown.jpg">
+	<img src="/images/art/davos/2_stage8_vert_linedup.jpg">
+	<img src="/images/art/davos/2_inside_vert_zoomedin.jpg">
+</div>
+
+<div class="gallery" data-columns="1">
+	<img src="/images/art/davos/2_inside_horz.jpg">
+</div>
 
 ---
 
